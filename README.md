@@ -4,7 +4,7 @@ This is a simple  web scraper made using python scrapy to crawl sinhala lyrics s
 ## Getting Started
 1. Install python and pip version 3
 2. Install required python packages by running the following command in the project home directory.
-  `$ pip install -r requirement.txt`
+  `$ pip install -r requirements.txt`
   > You may create a python virtual enviroment and install dependencies there
 3. Setup below configurations in the `sinhalalyrics/settings.py` file as required.
 ```
